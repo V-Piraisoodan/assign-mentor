@@ -10,7 +10,6 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
@@ -18,5 +17,15 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-Piraisoodan/stu-mentor-back.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/V-Piraisoodan/stu-mentor-back/issues"
+  },
+  "homepage": "https://github.com/V-Piraisoodan/stu-mentor-back#readme",
+  "description": ""
 }
