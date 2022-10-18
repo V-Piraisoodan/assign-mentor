@@ -111,5 +111,5 @@ app.get("/get",async(req,res)=>{
 // app.get("/",async(req,res)=>{
 //     res.send("hi")
 // })
-const PORT = 3001||process.env.PORT;
+const PORT = process.env.PORT;
 app.listen(PORT,()=>console.log("The server is started",PORT));
